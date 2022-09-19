@@ -1,0 +1,10 @@
+Actividad N°2
+
+Previamente se actualizo el repositorio local, ejecutando git fetch y luego git pull, para descargar el archivo creado en el entorno visual "Archivo 3 de Daniel Brunand.txt"
+Luego se editó este archivo localmente ("Archivo 3 de Daniel Brunand.txt"), ya que al abrirlo se observo que se modificaron los caracteres con acento por otros, y se corrigieron por caracteres sin acento y se guardo nuevamente, sobreescribiendolo.
+
+Archivo N°4
+Este es un nuevo archivo creado desde el entorno visual en el escritorio (en el directorio del disco local).
+Agregado en la rama Master, con los comandos git commit, y luego git push.
+
+Creado por Daniel Brunand.

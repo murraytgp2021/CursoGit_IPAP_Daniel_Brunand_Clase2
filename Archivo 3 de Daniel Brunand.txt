@@ -1,6 +1,6 @@
-Actividad N째2
+Actividad N�2
 
-Archivo N째3
+Archivo N�3
 Este es un nuevo archivo creado desde el entorno virtual en el repositorio web.
-Agregado en la rama Master. (No funcion처 en la linea de comandos el par찼metro "main", y si funcion처 con "master" en el paso anterior ("git push -u origin main"))
+Agregado en la rama Master. (No funciono en la linea de comandos el parametro "main", y si funciono con "master" en el paso anterior ("git push -u origin main"))
 Creado por Daniel Brunand.
