@@ -1,0 +1,6 @@
+Actividad N°2
+
+Archivo N°3
+Este es un nuevo archivo creado desde el entorno virtual en el repositorio web.
+Agregado en la rama Master. (No funcionó en la linea de comandos el parámetro "main", y si funcionó con "master" en el paso anterior ("git push -u origin main"))
+Creado por Daniel Brunand.
