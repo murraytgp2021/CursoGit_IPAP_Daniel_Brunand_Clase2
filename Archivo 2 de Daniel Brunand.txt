@@ -1,7 +1,7 @@
 
-Actividad N°2
+Actividad N°3
 
 Archivo N°2
-Este es un nuevo archivo para subir al repositorio.
-Agregado en la rama Main.
-Creado por Daniel Brunand.
+Este archivo se modifica para la rama/branch desarrollo.
+
+Modificado por Daniel Brunand.
